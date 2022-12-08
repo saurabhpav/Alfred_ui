@@ -1,0 +1,37 @@
+.img{
+position: absolute;
+top: 167px;
+left: 200px;
+width: 1500px;
+height: 700px;
+}
+#btn{
+position: fixed;
+top: 67px;
+left: 763px;
+width: 120px;
+height: 40px;
+background: #35B670 0% 0% no-repeat padding-box;
+border-radius: 8px;
+opacity: 1;
+}
+
+.upload{
+position: fixed;
+text-align:center;
+text-size:50;
+padding:5px;
+margin:5px;
+top: 67px;
+left: 763px;
+width: 220px;
+height: 40px;
+background: #35B670 0% 0% no-repeat padding-box;
+border-radius: 8px;
+opacity: 1;
+}
+
+input{
+        display: none;
+      }
+
